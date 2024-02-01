@@ -3,10 +3,10 @@
     <router-link class="navbar-brand d-flex" :to="{ name: 'Landing' }">
       <div class="d-flex flex-row align-items-center">
         <!-- <img alt="logo" src="../assets/img/cw-logo.png" height="45" /> -->
-        Liam ball
-        <button class="btn">about</button>
-        <button class="btn">experience</button>
-        <button class="btn">links</button>
+        Liam Ball
+        <button class="btn">About</button>
+        <button class="btn">Education</button>
+        <button class="btn">Links</button>
       </div>
     </router-link>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarText"
