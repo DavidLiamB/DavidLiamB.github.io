@@ -25,9 +25,11 @@
   <section class="row justify-content-center">
     <div class="col-12 text-center fs-1 pb-5"> Education </div>
     <div>Boise CodeWorks</div>
-    <p> reseved: Full Stack Development skills</p>
+    <p> learned: Full Stack Development skills</p>
     <p>
-      languases learned C# JS
+      languages learned C# JS CSS HTML
+      _____ like VUE
+      desinage patrunsts like MVC node dotNet
     </p>
   </section>
 

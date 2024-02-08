@@ -5,9 +5,8 @@
   <main class="container-fluid">
     <router-view />
   </main>
-  <footer class="bg-dark text-light">
-    Made with 💖 by Me ;)
-  </footer>
+  <!-- <footer class="bg-dark text-light">
+  </footer> -->
 </template>
 
 <script>
