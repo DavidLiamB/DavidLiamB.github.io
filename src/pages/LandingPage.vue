@@ -3,6 +3,12 @@
     <div class="col-12 text-center fs-1 py-5"> Web Developer </div>
   </section>
 
+
+  <section class="row justify-content-center">
+    <div class="col-12 text-center fs-1 py-5"> skills </div>
+    <div class="col-12 text-center fs-1 py-5"> C# JS CSS HTML VUE Node .Net MVC </div>
+  </section>
+
   <section class="row justify-content-center pb-5">
     <div class="col-12 text-center fs-1 pb-5"> Links </div>
     <div class="col-6 d-flex justify-content-between">

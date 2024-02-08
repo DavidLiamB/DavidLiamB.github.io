@@ -4,9 +4,11 @@
       <div class="d-flex flex-row align-items-center">
         <!-- <img alt="logo" src="../assets/img/cw-logo.png" height="45" /> -->
         Liam Ball
-        <button class="btn">About</button>
-        <button class="btn">Education</button>
+        <button class="btn">Skills</button>
+        <button class="btn">projects</button>
         <button class="btn">Links</button>
+        <button class="btn">Education</button>
+        <button class="btn">About</button>
       </div>
     </router-link>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarText"
