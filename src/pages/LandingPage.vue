@@ -28,8 +28,8 @@
     <p> learned: Full Stack Development skills</p>
     <p>
       languages learned C# JS CSS HTML
-      _____ like VUE
-      desinage patrunsts like MVC node dotNet
+      frame works VUE node dotNet
+      design patterns MVC
     </p>
   </section>
 
