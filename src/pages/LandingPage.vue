@@ -20,6 +20,7 @@
 
   <section class="row justify-content-center">
     <div class="col-12 text-center fs-1 pb-5"> Projects </div>
+    <!--Todo add projects-->
   </section>
 
   <section class="row justify-content-center">
@@ -35,6 +36,7 @@
 
   <section class="row justify-content-center">
     <div class="col-4 text-center fs-1 pb-5"> About </div>
+    <!-- todo add about me-->
   </section>
 </template>
 
